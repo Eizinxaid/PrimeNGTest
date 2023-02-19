@@ -1,1 +1,50 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";S
+
+.col-md-4 {
+    padding: 10px;
+}
+
+/*button {
+    width: 80%;
+    text-align: center;
+    padding: 0;
+}*/
+
+input {
+    width: 100%;
+    margin-top: 1.6%;
+    height: 66%;
+}
+
+p {
+    font-size: x-large;
+}
+
+/*.container {
+    align-self: center;
+    margin-top: 2%;
+    background-image: url(assets/background.jpg);
+    background-size: cover;
+}*/
+
+p-paginator {
+    opacity: 0.8;
+}
+
+body {
+    background-image: url(assets/background.jpg);
+    background-size:cover;
+}
+
+.p-panel {
+    opacity: 0.8;
+}
+
+.container {
+    margin: 0;
+}
+
+.row {
+    margin: 20px;
+}

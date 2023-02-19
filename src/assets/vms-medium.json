@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1000,
+      "vmname": "VM1",
+      "subscription": "DEV",
+      "resourcegroup": "group1",
+      "size": "B1",
+      "status": "working",
+      "ip": "10.48.4.1"
+    },
+    {
+      "id": 1001,
+      "vmname": "VM2",
+      "subscription": "QA",
+      "resourcegroup": "group1",
+      "size": "B1",
+      "status": "stopped",
+      "ip": "10.48.4.2"
+    },
+    {
+      "id": 1002,
+      "vmname": "VM3",
+      "subscription": "UAT",
+      "resourcegroup": "group1",
+      "size": "B1",
+      "status": "working",
+      "ip": "10.48.4.3"
+    },
+    {
+      "id": 1003,
+      "vmname": "VM4",
+      "subscription": "PROD",
+      "resourcegroup": "group1",
+      "size": "B1",
+      "status": "stopped",
+      "ip": "10.48.4.4"
+    }
+]
